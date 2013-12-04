@@ -1,5 +1,5 @@
 Package: tcolorbox
-Version: 2.51-1
+Version: 2.51-2
 Maintainer: Christian Egli <christian.egli@sbs.ch>
 Architecture: all
 Depends: texlive-common

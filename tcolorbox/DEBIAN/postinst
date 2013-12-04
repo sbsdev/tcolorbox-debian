@@ -20,7 +20,7 @@ set -e
 
 case "$1" in
     configure)
-	texhash /usr/share/texmf
+	texhash /usr/local/share/texmf
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)

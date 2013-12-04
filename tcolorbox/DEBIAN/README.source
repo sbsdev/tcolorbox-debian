@@ -1,0 +1,8 @@
+tcolorbox for Debian
+--------------------
+
+This package contains the files for the LaTeX package tcolorbox. It
+was fetched from
+http://www.ctan.org/tex-archive/macros/latex/contrib/tcolorbox
+
+ -- Christian Egli <christian.egli@sbs.ch>, Tue,  3 Dec 2013 15:47:51 +0100

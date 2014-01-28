@@ -1,8 +1,8 @@
 Package: tcolorbox
-Version: 2.51-2
+Version: 2.51-4
 Maintainer: Christian Egli <christian.egli@sbs.ch>
 Architecture: all
-Depends: texlive-common
+Depends: texlive-latex-extra
 Description: Coloured boxes, for LaTeX examples and theorems, etc
  The package provides an environment for coloured and framed text
  boxes with a heading line. Optionally, such a box can be split in an

@@ -1,5 +1,5 @@
 Package: tcolorbox
-Version: 2.51-4
+Version: 2.51-5
 Maintainer: Christian Egli <christian.egli@sbs.ch>
 Architecture: all
 Depends: texlive-latex-extra, pgf

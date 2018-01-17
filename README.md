@@ -1,5 +1,7 @@
 # tcolorbox
 
+**DEPRECATED:** This package is no longer maintained. Modern versions of Debian come with an up-to-date [tcolorbox][], so this package is no longer needed. Upgrade your Debian instead of using this package.
+
 A crude Debian package for [tcolorbox][]
 
 The LaTeX class [tcolorbox][] that comes with Debian 7 has some
